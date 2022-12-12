@@ -1,4 +1,4 @@
-## tiktok_excelpython
+## Chào mừng bạn đến với kho lưu trữ code của Kênh tiktok ExcelPython
 
 Các bạn download code VBA ở trên về dán vào cửa sổ soạn code VBA để vọc nhé.
 
