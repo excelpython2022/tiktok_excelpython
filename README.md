@@ -12,3 +12,12 @@ Tải code theo video
 # 2. Tìm giá trị không trùng lắp trong Excel bằng VBA
 + Video: https://www.tiktok.com/@excelpython/video/7195124044264426754?lang=en
 + Code: https://github.com/excelpython2022/tiktok_excelpython/blob/main/HighLight_Unique.vb
+# 3. COUNTIF theo màu trong Excel bằng VBA
++ Video: https://www.tiktok.com/@excelpython/video/7189592851469044994?lang=en
++ Code: https://github.com/excelpython2022/tiktok_excelpython/blob/main/COUNTIF_COLOR.vb
+# 4. Xóa tất cả comment trong Excel bằng VBA
++ Video: https://www.tiktok.com/@excelpython/video/7189514795400416514?lang=en
++ Code: https://github.com/excelpython2022/tiktok_excelpython/blob/main/XoaTatCaComment.vb
+# 5. Điền chữ cái theo thứ tự alphabet tự động vào Excel bằng VBA
++ Video: https://www.tiktok.com/@excelpython/video/7183536896075713793?lang=en
++ Code: https://github.com/excelpython2022/tiktok_excelpython/blob/main/Fill_Alphabet.vb
