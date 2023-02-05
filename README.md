@@ -24,3 +24,6 @@ Tải code theo video
 # 6. So sánh 2 cột dữ liệu trong Excel bằng VBA
 + Video: https://www.tiktok.com/@excelpython/video/7196571408594488578?lang=en
 + Code: https://github.com/excelpython2022/tiktok_excelpython/blob/main/Compare2Columns.vb
+# 7. Hướng dẫn làm App superfilter bằng VBA trên Excel
++ Video: https://www.tiktok.com/@thanhdong6789/video/7196662979704687873?lang=en
++ File: https://github.com/excelpython2022/tiktok_excelpython/blob/main/38%20VBA%20Super%20Filter%20TikTok.xlsm
