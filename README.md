@@ -21,3 +21,6 @@ Tải code theo video
 # 5. Điền chữ cái theo thứ tự alphabet tự động vào Excel bằng VBA
 + Video: https://www.tiktok.com/@excelpython/video/7183536896075713793?lang=en
 + Code: https://github.com/excelpython2022/tiktok_excelpython/blob/main/Fill_Alphabet.vb
+# 6. So sánh 2 cột dữ liệu trong Excel bằng VBA
++ Video: https://www.tiktok.com/@excelpython/video/7196571408594488578?lang=en
++ Code: https://github.com/excelpython2022/tiktok_excelpython/blob/main/Compare2Columns.vb
