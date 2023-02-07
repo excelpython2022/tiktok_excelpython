@@ -27,3 +27,6 @@ Tải code theo video
 # 7. Hướng dẫn làm App superfilter bằng VBA trên Excel
 + Video: https://www.tiktok.com/@thanhdong6789/video/7196662979704687873?lang=en
 + File: https://github.com/excelpython2022/tiktok_excelpython/blob/main/38%20VBA%20Super%20Filter%20TikTok.xlsm
+# 8. Xuất vùng chọn ra file PDF
++ Video: https://www.tiktok.com/@excelpython/video/7197294542834519298?lang=en
++ Code: https://github.com/excelpython2022/tiktok_excelpython/blob/main/ExportSelectionToPDF.vb
