@@ -30,3 +30,6 @@ Tải code theo video
 # 8. Xuất vùng chọn ra file PDF
 + Video: https://www.tiktok.com/@excelpython/video/7197294542834519298?lang=en
 + Code: https://github.com/excelpython2022/tiktok_excelpython/blob/main/ExportSelectionToPDF.vb
+# 9. Xóa khoảng trắng giữa câu bằng VBA
++ Video: https://www.tiktok.com/@excelpython/video/7203703355410042114?lang=en
++ Code: https://github.com/excelpython2022/tiktok_excelpython/blob/main/RemoveSpaces.vb
