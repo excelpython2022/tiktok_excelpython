@@ -33,3 +33,6 @@ Tải code theo video
 # 9. Xóa khoảng trắng giữa câu bằng VBA
 + Video: https://www.tiktok.com/@excelpython/video/7203703355410042114?lang=en
 + Code: https://github.com/excelpython2022/tiktok_excelpython/blob/main/RemoveSpaces.vb
+# 10. Gộp nhiều dòng trong ô bằng VBA
++ Video: https://www.tiktok.com/@thanhdong6789/video/7203711439725530370
++ Code: https://github.com/excelpython2022/tiktok_excelpython/blob/main/GopDong.vb
