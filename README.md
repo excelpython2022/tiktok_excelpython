@@ -36,3 +36,6 @@ Tải code theo video
 # 10. Gộp nhiều dòng trong ô bằng VBA
 + Video: https://www.tiktok.com/@thanhdong6789/video/7203711439725530370
 + Code: https://github.com/excelpython2022/tiktok_excelpython/blob/main/GopDong.vb
+# 11. Insert dòng trống vào dưới mỗi dòng trong vùng chọn
++ Video: https://www.tiktok.com/@thanhdong6789/video/7248187677609184514?lang=en
++ Code: https://github.com/excelpython2022/tiktok_excelpython/blob/main/ThemDongTrongDuoiMoiDong.vb
